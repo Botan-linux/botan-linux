@@ -7,17 +7,14 @@
 ---
 
 ### 🧠 Geliştirici Felsefem
-Sistemlerin kullanıcıyı kısıtlamaması gerektiğine inanıyorum. Bu yüzden **Arch tabanlı, "hardcore" ve terminal odaklı** bir deneyim sunan **Botan Linux** üzerinde çalışıyorum [1]. Terminalin gücünü seviyor, ancak karmaşık işlemleri kolaylaştıran (Linxus gibi) akılcı çözümler üretmeye odaklanıyorum 
+Sistemlerin kullanıcıyı kısıtlamaması gerektiğine inanıyorum. Bu yüzden **Arch tabanlı, "hardcore" ve terminal odaklı** bir deneyim sunan **Botan Linux** üzerinde çalışıyorum  Terminalin gücünü seviyor, ancak karmaşık işlemleri kolaylaştıran (Linxus gibi) akılcı çözümler üretmeye odaklanıyorum ve otomasyonun n8n internete insan hayatına çok katkısı olabilecegini düşünuyurum internet bu devirde heryerde sonuçta
 
 ### 🛠️ Teknik Yeteneklerim
-*   **Sistem Programlama:** Bash (Shell) ile otomasyon ve kurulum araçları geliştirme (botan-install)
-*   **Uygulama Geliştirme:** Python ve TypeScript kullanarak sistem yardımcıları ve modern web arayüzleri oluşturma 
-*   **Linux Uzmanlığı:** Arch Linux tabanlı dağıtım mimarisi, çekirdek (kernel) yapılandırmaları ve sistem yönetimi
+*   **Linux deneyimi:** linux sayesinde yeni yazılımlar keşfetim ve linux ögrendim
 
 ### 📈 Son Çalışmalarım
 *   Eski projelerimi (Botan-sprout) daha modern ve güçlü bir yapıya (Botan Linux) dönüştürüyorum 
 
+💬 **Benimle sistem mimarisi, açık kaynak felsefesi veya Linux üzerine konuşabilirsiniz.**
 
 ---
-
-💬 **Benimle sistem mimarisi, açık kaynak felsefesi veya Linux üzerine konuşabilirsiniz.**
