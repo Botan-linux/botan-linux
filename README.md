@@ -16,5 +16,5 @@ Sistemlerin kullanıcıyı kısıtlamaması gerektiğine inanıyorum. Bu yüzden
 *   Eski projelerimi (Botan-sprout) daha modern ve güçlü bir yapıya (Botan Linux) dönüştürüyorum 
 
 💬 **Benimle sistem mimarisi, açık kaynak felsefesi veya Linux üzerine konuşabilirsiniz.**
-
+ve dscordum https://discord.gg/93Fd9HPVFK
 ---
