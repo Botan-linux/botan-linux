@@ -1,4 +1,23 @@
-merhaba linux severler bugün sizlere tek başıma yaptıgım  botan linuxun ne oldugunu nerden indirebilirsiniz onu anlatıcam bu readme.md dosyasında
-dipnot:şuan yayında olan bir proje var github hesabımda botan sprout var ama onu degiştirdim yeni hali botan linux olacak sadece ve şuan bir iso yok olmıycak çünkü daha geliştirme aşamasında 
-botan linux nedir botan linux arch tabanlı bir linux dagıtımıdır hardcore bir dagıtımdır kullanıcı ne yapmak isterse onu yapar bir linux dagıtımı buna karışamaz ve çogunlukla botan linuxta terminal kullanıcaksınız son kullanıcı bu dagıtımı begenmeyebilir isteyen kullanır
-kerneli normal linux kernelidir kurulumda terminalde pacstrap ile kuracaksanız istediginiz kerneli seçebilirsiniz ama önerim botan-install kullanın tamamen bash ile yazılmış hafif bir indirme aracıdır yazacagım başka bir şey yok çünkü dagıtım daha yok
+# Selam, ben p4antom! 👋
+
+**Özgürlükçü bir Linux geliştiricisi ve terminal tutkunuyum.**
+
+"Kullanıcı ne yapmak isterse onu yapar, bir Linux dağıtımı buna karışamaz" felsefesini benimseyerek, kullanıcıya tam kontrol veren sistemler ve araçlar inşa ediyorum
+
+---
+
+### 🧠 Geliştirici Felsefem
+Sistemlerin kullanıcıyı kısıtlamaması gerektiğine inanıyorum. Bu yüzden **Arch tabanlı, "hardcore" ve terminal odaklı** bir deneyim sunan **Botan Linux** üzerinde çalışıyorum [1]. Terminalin gücünü seviyor, ancak karmaşık işlemleri kolaylaştıran (Linxus gibi) akılcı çözümler üretmeye odaklanıyorum 
+
+### 🛠️ Teknik Yeteneklerim
+*   **Sistem Programlama:** Bash (Shell) ile otomasyon ve kurulum araçları geliştirme (botan-install)
+*   **Uygulama Geliştirme:** Python ve TypeScript kullanarak sistem yardımcıları ve modern web arayüzleri oluşturma 
+*   **Linux Uzmanlığı:** Arch Linux tabanlı dağıtım mimarisi, çekirdek (kernel) yapılandırmaları ve sistem yönetimi
+
+### 📈 Son Çalışmalarım
+*   Eski projelerimi (Botan-sprout) daha modern ve güçlü bir yapıya (Botan Linux) dönüştürüyorum 
+
+
+---
+
+💬 **Benimle sistem mimarisi, açık kaynak felsefesi veya Linux üzerine konuşabilirsiniz.**
